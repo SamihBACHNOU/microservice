@@ -59,5 +59,3 @@ Microservices avec un système de e-commerce
 2. **Utilisation de Docker** :
     - Conteneurisez chaque microservice en utilisant Docker.
     - Créez un script Docker-Compose pour démarrer l'ensemble du système avec une seule commande.
-
-N'oubliez pas de diviser votre travail en tâches plus petites et de progresser étape par étape. Assurez-vous de tester chaque composant individuellement avant de passer à l'intégration des services. Bonne chance avec votre TP ! Si vous avez des questions plus spécifiques, n'hésitez pas à les poser.
